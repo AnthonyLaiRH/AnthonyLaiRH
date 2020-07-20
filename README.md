@@ -3,10 +3,9 @@
 <p align="center">I'm a software engineering student, always looking to learn!</p>
 <p align="center">
   <a href="https://anthonylai.dev">
-    <img alt="anthonylai.dev" width="60px" src="https://img.icons8.com/clouds/100/000000/domain.png"/>
+    <img alt="anthonylai.dev" width="60px" src="https://img.icons8.com/bubbles/100/000000/domain.png"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/anthony-lai-rh/">
-    <img alt="LinkedIn" width="60px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/>
+    <img alt="LinkedIn" width="60px" src="https://img.icons8.com/bubbles/100/000000/linkedin.png"/>
   </a>
 </p>
----
