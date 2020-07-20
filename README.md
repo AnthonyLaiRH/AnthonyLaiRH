@@ -1,4 +1,4 @@
-<h3 align="center"><img src="https://i1.wp.com/media1.giphy.com/media/QORL3lH6yuk8fzKWcc/giphy.gif?resize=640%2C640&ssl=1&crop=1" width="80"></h3>
+<h3 align="center"><img src="https://i.pinimg.com/originals/b0/5e/c9/b05ec961199a235730330a2ae43950dc.gif" width="80"></h3>
 <h3 align="center">Hey, welcome!</h3>
 <p align="center">I'm a software engineering student, always looking to learn!</p>
 <p align="center">
