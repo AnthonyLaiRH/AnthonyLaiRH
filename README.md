@@ -6,7 +6,7 @@
     <img alt="anthonylai.dev" width="24px" src="https://img.icons8.com/dusk/64/000000/web.png"/>
   </a>&nbsp;
   <a href="https://www.linkedin.com/in/anthony-lai-rh/">
-    <img alt="Instagram" width="24px" src="<img src="https://img.icons8.com/plasticine/100/000000/linkedin.png"/>" />
+    <img alt="LinkedIn" width="24px" src="https://img.icons8.com/plasticine/100/000000/linkedin.png"/>
   </a>
 </p>
 ---
